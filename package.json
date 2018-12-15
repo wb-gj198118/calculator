@@ -6,8 +6,7 @@
   "author": "gaojian",
   "devDependencies": {
     "chai": "^4.2.0",
-    "gh-pages": "^2",
-    "prettier": "1.15.3",
+    "prettier": "^1.15.3",
     "react-scripts": "^2.1.1"
   },
   "dependencies": {
@@ -20,8 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "prettier": {
     "trailingComma": "all"
